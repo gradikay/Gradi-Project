@@ -2,6 +2,7 @@
   background-color: #00599#;
   color: white;
   border-radius: 0;
+  margin-bottom: 0;
 }
 .content-title h3{
   color: #008fb9;
@@ -11,4 +12,5 @@
 }
 .container-first{
   background-color: 00b4f5;
+  max-width: 100%;
 }
