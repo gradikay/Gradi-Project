@@ -11,21 +11,13 @@
   text-align: -webkit-center;
 }
 .container-first{
-  background-color: #00b4f5;
+  background-color: white;
   max-width: 100%;
+  padding-left: 4em;
+  padding-top: 1em;
+  color: #005a99;
 }
-.container-first .tabing:nth-child(1), .container-first .tabing:nth-child(2), .container-first .tabing:nth-child(3){
-  background-color: #005a99;
-}
-.container-first .tabing:nth-child(1):hover{
-  background-color:#ee2f62;
-}
-.container-first .tabing:nth-child(2):hover{
-  background-color:#5341ad;
-}
-.container-first .tabing:nth-child(3):hover{
-  background-color:#34af45;
-}
+
 img{
   height: auto;
   max-width: 100%;
