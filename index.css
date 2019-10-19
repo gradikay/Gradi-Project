@@ -5,4 +5,7 @@
 }
 .content-title h3{
   color: #009b8b;
+  border-bottom: 5px dotted #009b8b;
+  padding-bottom: 5px;
+  text-align: -webkit-center;
 }
