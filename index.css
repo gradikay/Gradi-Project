@@ -27,7 +27,8 @@
   background-color:#34af45;
 }
 img{
- height: 451px; 
+  height: auto;
+  max-width: 100%;
 }
 
 
