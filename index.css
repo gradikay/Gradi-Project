@@ -14,9 +14,9 @@
   background-color: #00b4f5;
   max-width: 100%;
 }
-.container-first div:nth-child(1){
+.container-first .tabing:nth-child(1){
   background-color: red;
 }
-.container-first div:nth-child(1):hover{
+.container-first .tabing:nth-child(1):hover{
   background-color:#ee2f62;
 }
