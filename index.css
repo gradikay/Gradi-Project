@@ -26,5 +26,8 @@
 .container-first .tabing:nth-child(3):hover{
   background-color:#34af45;
 }
+img{
+ height: 451px; 
+}
 
 
