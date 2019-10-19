@@ -30,5 +30,8 @@ img{
   height: auto;
   max-width: 100%;
 }
-
+.carousel-item{
+  height:451px;
+  max-width: 100%;
+}
 
