@@ -1,11 +1,11 @@
 .jumbotron {
-  background-color: #00c59a;
+  background-color: #00b4f5;
   color: white;
   border-radius: 0;
 }
 .content-title h3{
-  color: #009b8b;
-  border-bottom: 5px dotted #009b8b;
+  color: #008fb9;
+  border-bottom: 5px dotted #00b4f5;
   padding-bottom: 5px;
   text-align: -webkit-center;
 }
