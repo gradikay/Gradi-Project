@@ -14,7 +14,9 @@ img{
 .carousel-item{
   height:560px;
   max-width: 100%;
-  background-color:#005a99;
+  /*background-color:#005a99;*/
+  /*gradiet coloring*/
+  background: linear-gradient(to bottom, #000066 0%, #0033cc 100%);
 }
 .carousel-control-next-icon, .carousel-control-prev-icon{
   background-image:none;
