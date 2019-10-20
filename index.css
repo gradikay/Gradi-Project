@@ -43,7 +43,7 @@ div .content-title1:nth-child(1) {
 }
 div .content-title3:nth-child(3) {
   padding: 0;
-  box-shadow: 30px -35px 2px 0px #e4e4e4;
+  box-shadow: 30px 35px 2px 0px #e4e4e4;
 } 
 .content-title2{
   color:white;
