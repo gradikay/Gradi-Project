@@ -42,9 +42,9 @@ div .content-title1:nth-child(1) {
   box-shadow: -30px 35px 2px 0px #e4e4e4;
 }  
 .content-title2{
-  margin-top:155px;
   color:white;
-  background-color: #00000052;
+  padding-top: 120px;
+  text-align: center;
 }
 
 
