@@ -8,7 +8,8 @@ text-headings: (gradi-strong-purple) #160F34
 bg-blue:(gradi-faded-blue-sky) #44829A 
 */
 .container-first{
-  background-color: white;
+  /*background-color: white;*/
+  background: linear-gradient(to bottom, #ffffff -104%, #160f34 135%);
   max-width: 100%;
   padding-left: 4em;
   padding-top: 1em;
