@@ -30,3 +30,8 @@ img{
 .carousel-control-next-icon, .carousel-control-prev-icon{
   background-image:none;
 }
+footer {
+  background-color: #160F34;
+  color:white;
+}
+
