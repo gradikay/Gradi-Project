@@ -16,7 +16,7 @@ img{
   max-width: 100%;
   /*background-color:#005a99;*/
   /*gradiet coloring*/
-  background: linear-gradient(to bottom, #000066 0%, #0033cc 100%);
+  background: linear-gradient(to top left, #44829a -104%, #160f34 135%);
 }
 .carousel-control-next-icon, .carousel-control-prev-icon{
   background-image:none;
