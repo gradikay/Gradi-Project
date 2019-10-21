@@ -50,6 +50,9 @@ div .content-title3:nth-child(3) {
   padding-top: 120px;
   text-align: center;
 }
+video .videoTop{
+  background-color: #040c20;
+}
 
 
 
