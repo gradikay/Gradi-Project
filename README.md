@@ -15,6 +15,8 @@ To me, programming could be summerized into one simple definition `"Freedom of m
 I am a webdeveloper
 ```
 
+***
+
 ### Checkout my old project code named `Zonimo` this aims to create an animal database
 
 ![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/zonimo3.PNG)
