@@ -17,4 +17,4 @@ I am a webdeveloper
 
 ### Checkout my Table and Navigation designs
 
-![Table and Nav Designs](https://github.com/gradikay/Zonimoold/blob/master/zonimo4.PNG)
+![Table and Nav Designs](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/table1.PNG)
