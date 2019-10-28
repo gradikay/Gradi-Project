@@ -21,4 +21,6 @@ I am a webdeveloper
 
 ### Checkout my Table and Navigation designs
 
+See table and navbars here!!! https://gradikay.github.io/kayamba-design/
+
 ![Table and Nav Designs](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/table1.PNG)
