@@ -1,9 +1,9 @@
 # Welcome! Welcome!
 Welcome to my world! On here you can see some of my old and new work, please search on...!
 
-```
-Go here to see the cite https://gradikay.github.io/Gradi-Kayamba-Project/
-```
+`
+Go here to see the cite` https://gradikay.github.io/Gradi-Kayamba-Project/
+
 
 ***
 # Overview
