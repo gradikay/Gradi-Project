@@ -4,8 +4,17 @@ Welcome to my world! On here you can see some of my old and new work, please sea
 ***
 # Overview
 I am documenting my work, as I go to this journey of programming.
-To me, programming could be summerized into one simple definition "Freedom of mind."
+To me, programming could be summerized into one simple definition `"Freedom of mind."`
 
-### Here you can see what the Signup page looked like
+```sh
+# Gradi Kayamba
+I am a webdeveloper
+```
 
-![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/zonimo1.PNG)
+### Checkout my old project code named `Zonimo` this aims to create an animal database
+
+![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/zonimo3.PNG)
+
+### Checkout my Table and Navigation designs
+
+![Table and Nav Designs](https://github.com/gradikay/Zonimoold/blob/master/zonimo4.PNG)
