@@ -19,6 +19,8 @@ I am a webdeveloper
 
 ![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/zonimo3.PNG)
 
+***
+
 ### Checkout my Table and Navigation designs
 
 See table and navbars here!!! https://gradikay.github.io/kayamba-design/
