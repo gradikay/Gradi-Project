@@ -6,8 +6,9 @@ Go here to see the cite` https://gradikay.github.io/Gradi-Kayamba-Project/
 
 
 ***
-## Here our my Git is orginized
-`1. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
+## Where to start? Here is a starting point
+`1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! [See Animal Database for Updates]
+`2. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
 ***
 # Overview
 I am documenting my work, as I go to this journey of programming.
