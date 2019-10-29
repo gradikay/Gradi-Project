@@ -7,18 +7,18 @@ Go here to see the cite` https://gradikay.github.io/Gradi-Kayamba-Project/
 
 ***
 ## Where to start? Here is a starting point
-`1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! [See Animal Database for Updates]
+`1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! 
 
 `2. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
 
-`3. Animal Database` - Here you can see my project about an animal database. [See Animal Database for Updates]
+`3. Animal Database` - Here you can see my project about an animal database. 
 
 ```sh
-# Gradi Kayamba
-I am a webdeveloper
+# UPDATE AS OF 10/29/2019
+ANIMAL DATABASE EXTENSIBLE (ADE)
 ```
 
-`4. Learn HTML 101` - This is my cheatsheet on HTML. You can also see how I learned HTML. [See Animal Database for Updates]
+`4. Learn HTML 101` - This is my cheatsheet on HTML. You can also see how I learned HTML. 
 ***
 # Overview
 I am documenting my work, as I go to this journey of programming.
