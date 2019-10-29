@@ -10,6 +10,15 @@ Go here to see the cite` https://gradikay.github.io/Gradi-Kayamba-Project/
 `1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! [See Animal Database for Updates]
 
 `2. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
+
+`3. Animal Database` - Here you can see my project about an animal database. [See Animal Database for Updates]
+
+```sh
+# Gradi Kayamba
+I am a webdeveloper
+```
+
+`4. Learn HTML 101` - This is my cheatsheet on HTML. You can also see how I learned HTML. [See Animal Database for Updates]
 ***
 # Overview
 I am documenting my work, as I go to this journey of programming.
