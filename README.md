@@ -1,4 +1,4 @@
-![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/gradiLogoOrange.PNG)
+![My Personal Logo](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/gradiLogoOrange.png)
 # Welcome! Welcome!
 Welcome to my world! On here you can see some of my old and new work, please search on...!
 
