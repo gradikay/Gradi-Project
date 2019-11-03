@@ -1,7 +1,60 @@
 ﻿/* let learn how to set our charset*/
 @charset "UTF-8";
-/* we do not need a margin for our body section*/
-body{margin:0; background-color:#f4f2f2; color:black;}
+/* for devices smaller than a Pixel 2 */
+@media screen and (max-width:812px) {
+    body{background-color:white;}
+    nav{position:inherit; background-color:white; border-bottom: 1px solid lightgray;}
+    nav span.nav{display:block;}
+    nav span.nav.center{max-width:100%; background-color:white;}
+    nav span.nav.right{display:none;}
+    nav span.nav.left{display:none;}
+    header #upperHeader {padding: 15px 0 15px 0;}
+    header #upperHeader img {height:50px;}
+/* here we are styling our 'video' section */
+    section#one {padding:0; border-radius:0; margin:0; background-color:none; box-shadow:none;}
+    section#one video{border-radius:0; max-height:100%;width:100%;}
+    section#two .upperDiv {padding: 0; box-shadow: none; margin-bottom: 0;}
+    section#two .aboutMe {
+        display: block;
+        max-width: 100%;
+        border-bottom: 1px solid lightgray;
+        border-top: 1px solid lightgray;
+        height: auto;
+        padding: 20px;
+    }
+    section#two .lowerDiv {margin-top: 0;}
+    section#two .aboutMe img {max-width: 100%;}
+    section #three {padding:0; background-image:none;}
+    section#three .skillTitle {padding:0; border-radius:0;box-shadow:none;}
+    section#three .mySkills {
+        display: block;
+        max-width: 100%;
+        margin: 0; 
+        box-shadow: none; 
+        border-radius: 0;
+        height: initial;
+        overflow:initial; 
+        padding:0; 
+    }
+    section#three .mySkills h3{border-radius:0;}
+    section#four {display:none;}
+    section#five section {
+         display: block; 
+         overflow: initial; 
+         width: auto; 
+         height: auto; 
+         border-radius: 0; 
+    }
+    section#five iframe {
+        max-width: 100%;
+        height: 100%;
+        padding: 10px 0;
+        margin: 0; 
+        border:none; 
+        border-radius: 0; 
+    }
+}
+
 /*let remove the border for images showing on IE9 and earlier versions*/
 img{border:0;}
 /* regular color for text - grey */
@@ -13,6 +66,7 @@ nav a:hover, .bgColor, footer{
     background-color: #2A293E;
     color:white;
 }
+
 /* Our underlining span */
 span.underLine{border-bottom:3px solid #2A293E; border-radius:5px;}
 /* universal styling starts - Centering elements */
@@ -24,24 +78,105 @@ section#two .lowerDiv,
 section#one,
 section#two, 
 section#three,
-footer{
-    text-align: center;
-}
+footer{text-align: center;}
+/* changing our devices*/
+@media screen and (min-width:813px){
+/* we do not need a margin for our body section*/
+    body{margin:0; background-color:#f4f2f2; color:black;}
+    nav span.nav{display:inline-block;}
+    nav span.nav.center{width:500px; padding-top: 5px;}
+    nav span.nav.right{float:right; width:300px; height:auto;}
+
 /* let style our nav bar*/
-nav {
-    position: fixed;
-    width: 100%;
-    padding: 5px;
-    z-index: 1;
-    top: 0;
-    box-shadow: 0px -5px 4px 3px black;
-    background-color: rgba(255, 255, 255,0.95);
+    nav {
+        width: 100%;
+        padding: 5px;
+        z-index: 1;
+        top: 0;
+        box-shadow: 0px -5px 4px 3px black;
+        position: fixed;
+        background-color: rgba(255, 255, 255,0.95);
+    }
+/* the padding top is offseting the nav fixed position */
+    header #upperHeader {padding: 65px 0 15px 0;}
+/* here we are styling our 'video' section */
+    section#one {
+        padding: 15px;
+        border-radius: 5px;
+        margin: 40px 30px 40px 30px;
+        background-color: #040c20;
+        box-shadow: 1px 0 8px 0 black;
+    }
+    section#one video{border-radius:5px; height:300px;}
+    section#two .upperDiv {padding: 5px; box-shadow: 0 -8px 13px -12px black; margin-bottom: 60px;}
+    section#two .aboutMe {
+        display: inline-block;
+        width: 370px;
+        text-align: left;
+        margin: 15px;
+        height: 400px;
+        border: 1px solid #dadada;
+        overflow: hidden;
+        padding: 20px;
+        border-radius: 5px;
+    }
+    section#two .lowerDiv {margin-top: 60px;}
+    /* Styling for section 3 - my skills*/
+    section#three {
+        padding: 60px 0;
+        background-image: url(OPS34L0.jpg);
+        background-attachment: fixed;
+        background-size: cover;
+        BACKGROUND-POSITION-Y: 80%;
+        background-repeat: no-repeat;
+    }
+    section#three .skillTitle {
+        background-color: white;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0px 0px 20px 0px black;
+    }
+    section#three .mySkills {
+        display: inline-block;
+        width: 300px;
+        margin: 15px;
+        box-shadow: 0px 0px 20px 0px black;
+        border-radius: 5px;
+        background-color: white;
+        height: 350px;
+        overflow: hidden;
+        padding: 15px;
+    }
+    section#three .mySkills h3{padding:5px; margin:10px 0;border-radius:5px;}
+    /* section Four */
+    section#four {background-color: white; text-align: center; padding: 40px 0;}
+    section#four span {
+        background-color: #2A293E;
+        padding: 15px;
+        border-radius: 20px;
+        font-weight: bolder;
+        color: white;
+    }
+    section#four span:hover{background-color:#6b5b95;}
+    section#five section {
+        display: inline-block;
+        overflow: hidden;
+        width: 600px;
+        height: 690px;
+        border-radius: 5px;
+    }
+    section#five iframe {
+        width: 446px;
+        height: 251px;
+        margin: 15px 0;
+        border: 5px solid white;
+        border-radius: 15px;
+        box-shadow: 0px 0px 12px -2px black;
+    }
+    section#two .aboutMe img{width:90%; border-radius: 5px; border: 5px solid #2A293E;}
 }
-nav span.nav{display:inline-block;}
 nav span.nav.left{float:left; width:300px;}
-nav span.nav.center{width:500px; padding-top: 5px;}
 nav span.nav.center a{padding:5px 10px;}
-nav span.nav.right{float:right; width:300px; height:auto;}
 nav a{text-decoration:none; display:inline-block;  font-weight:bold;}
 nav span.icon{width: 26px; height: 26px; display: block;}
 nav a.logo{ margin:0; padding:5px; border-radius: 100%;}
@@ -49,85 +184,14 @@ nav span img{max-width:100%;}
 /* let style our header section */
 header{background-color:white;}
 header p, section#two .upperDiv p{margin:0;}
-    /* the padding top is offseting the nav fixed position */
-header #upperHeader{padding: 65px 0 15px 0;}
 header .lowerDiv, section#two .lowerDiv{padding:5px; box-shadow: 0 8px 9px -11px black;}
-/* here we are styling our 'video' section */
-section#one {
-    padding: 15px;
-    border-radius: 5px;
-    margin: 40px 30px 40px 30px;
-    background-color: #040c20;
-    box-shadow: 1px 0 8px 0 black;
-}
-section#one video{border-radius:5px;}
 /* here we are styling our 'about me' section */
 section#two{background-color:white; margin:0; padding:0;}
-section#two .upperDiv {
-    padding: 5px;
-    box-shadow: 0 -8px 13px -12px black;
-    margin-bottom: 60px;
-}
-section#two .aboutMe {
-    display: inline-block;
-    width: 370px;
-    text-align: left;
-    margin: 15px;
-    height: 400px;
-    border: 1px solid #dadada;
-    overflow: hidden;
-    padding: 20px;
-    border-radius: 5px;
-}
-section#two .aboutMe img{width:90%; border-radius: 5px; border: 5px solid #2A293E;}
 section#two .aboutMe figure{text-align:center;}
 section#two .aboutMe figcaption{padding: 5px;}
-section#two .lowerDiv{margin-top:60px;}
 section#two .lowerDiv p{margin:0;}
-
-/* Styling for section 3 - my skills*/
-section#three {
-    padding: 60px 0;
-    background-image: url(OPS34L0.jpg);
-    background-attachment: fixed;
-    background-size: cover;
-    BACKGROUND-POSITION-Y: 80%;
-    background-repeat: no-repeat;
-}
-section#three .mySkills {
-    display: inline-block;
-    width: 300px;
-    margin: 15px;
-    box-shadow: 0px 0px 20px 0px black;
-    border-radius: 5px;
-    background-color: white;
-    height: 350px;
-    overflow: hidden;
-    padding: 15px;
-}
-section#three .skillTitle {
-    background-color: white;
-    padding: 15px;
-    border-radius: 5px;
-    box-shadow: 0px 0px 20px 0px black;
-}
 section#three .mySkills ul{text-align:left; list-style-type:none; padding-left:15px;}
 section#three .mySkills ul li{padding: 10px 0;}
-section#three .mySkills h3{padding:5px; margin:10px 0;border-radius:5px;}
-/* section Four */
-section#four {
-    background-color: white;
-    text-align: center;
-    padding: 40px 0;
-}
-section#four span {
-    background-color: #2A293E;
-    padding: 15px;
-    border-radius: 20px;
-    font-weight: bolder;
-    color: white;
-}
-section#four span:hover{background-color:#6b5b95;}
 /* section Five */
 section#five {
     background-color: #6b5b95;
@@ -136,20 +200,7 @@ section#five {
     margin:0;
     padding:15px;
 }
-section#five section{
-    display:inline-block;
-    overflow:hidden;
-    width:600px; height:690px;
-    border-radius:5px;
-}
-section#five iframe{
-    width: 446px;
-    height: 251px;
-    margin: 15px 0;
-    border: 5px solid white;
-    border-radius: 15px;
-    box-shadow: 0px 0px 12px -2px black;
-}
+
 section#five span{
     width: 150px;
     height: 150px;
@@ -162,11 +213,6 @@ section#five span{
     overflow: hidden;
 }
 section#five span img{max-width:100%; max-height:100%;}
-
-
-
-
-
 footer{padding:15px;}
 footer section.box{
     border:1px solid lightgray;
