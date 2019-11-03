@@ -1,8 +1,10 @@
 ﻿/* let learn how to set our charset*/
 @charset "UTF-8";
+a{cursor:pointer;}
+body{margin:0;}
 /* for devices smaller than a Pixel 2 */
 @media screen and (max-width:812px) {
-    body{background-color:white;}
+    body{background-color:white;margin:0;}
     nav{position:inherit; background-color:white; border-bottom: 1px solid lightgray;}
     nav span.nav{display:block;}
     nav span.nav.center{max-width:100%; background-color:white;}
