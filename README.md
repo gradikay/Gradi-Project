@@ -12,7 +12,9 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 
 `2. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
 
-`3. Animal Database` - Here you can see my project about an animal database. 
+`3. Animal Database` - Here you can see my project about an animal database.
+
+`3. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/.
 
 ```sh
 # UPDATE AS OF 10/29/2019
