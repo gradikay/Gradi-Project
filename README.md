@@ -15,7 +15,8 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 `3. Animal Database` - Here you can see my project about an animal database.
 
 
-`4. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/.
+`4. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/
+
 ![Login to Zonimo image](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox1.PNG)
 
 ```sh
