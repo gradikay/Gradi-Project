@@ -17,7 +17,9 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 
 `4. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/
 
-![Login to Zonimo image](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox1.PNG)
+![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.jpg)
+![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox3.jpg)
+![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox4.jpg)
 
 ```sh
 # UPDATE AS OF 10/29/2019
