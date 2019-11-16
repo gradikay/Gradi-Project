@@ -10,13 +10,13 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 ## Where to start? Here is a starting point
 `1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! 
 
-`2. Gradi Kayamba Project` - Here I have build a website with using XML, HTML5, CSS3, JAVASCRIPT https://gradikay.github.io/Kincentral-times/.
+`2. Gradi Kayamba Project` - Here I have build a website with using `XML, HTML5, CSS3, JAVASCRIPT` https://gradikay.github.io/Kincentral-times/.
 
-![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.JPG)
+![XML WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/Capture.JPG)
 
 `3. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
 
-`4. Animal Database` - Here you can see my project about an animal database.
+`4. Animal Database` - Here you can see my 2015 project about an animal database. comming soon...
 
 
 `5. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/
@@ -26,7 +26,7 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 ![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox4.JPG)
 
 ```sh
-# UPDATE AS OF 10/29/2019
+# UPDATE AS OF 11/15/2019
 ANIMAL DATABASE EXTENSIBLE (ADE)
 ```
 
@@ -34,11 +34,11 @@ ANIMAL DATABASE EXTENSIBLE (ADE)
 ***
 # Overview
 I am documenting my work, as I go to this journey of programming.
-To me, programming could be summerized into one simple definition `"Freedom of mind."`
+To me, programming could be summerized into one simple definition `"Freedom of the mind."`
 
 ```sh
 # Gradi Kayamba
-I am a webdeveloper
+I am a Front-End | Back End Web Developer
 ```
 
 ***
