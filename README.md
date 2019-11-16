@@ -10,12 +10,16 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 ## Where to start? Here is a starting point
 `1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! 
 
-`2. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
+`2. Gradi Kayamba Project` - Here I have build a website with using XML, HTML5, CSS3, JAVASCRIPT https://gradikay.github.io/Kincentral-times/.
 
-`3. Animal Database` - Here you can see my project about an animal database.
+![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.JPG)
+
+`3. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
+
+`4. Animal Database` - Here you can see my project about an animal database.
 
 
-`4. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/
+`5. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/
 
 ![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.JPG)
 ![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox3.JPG)
@@ -26,7 +30,7 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 ANIMAL DATABASE EXTENSIBLE (ADE)
 ```
 
-`4. Learn HTML 101` - This is my cheatsheet on HTML. You can also see how I learned HTML. 
+`6. Learn HTML 101` - This is my cheatsheet on HTML. You can also see how I learned HTML. 
 ***
 # Overview
 I am documenting my work, as I go to this journey of programming.
