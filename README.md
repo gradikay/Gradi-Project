@@ -10,7 +10,7 @@ Go here to see the webpage` https://gradikay.github.io/Gradi-Kayamba-Project/
 ## Where to start? Here is a starting point
 `1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! 
 
-`2. KinCentral News` - Here I have build a website with using `XML, HTML5, CSS3, JAVASCRIPT`. https://gradikay.github.io/Kincentral-times/.
+`2. KinCentral News` - Here I have build a website with `XML, HTML5, CSS3, JAVASCRIPT`. https://gradikay.github.io/Kincentral-times/.
 
 ![XML WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/Capture.JPG)
 
