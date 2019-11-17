@@ -50,7 +50,9 @@ I am a Front-End | Back End Web Developer
 ***
 `7. CSS3 Animation` - See some animation powered with css. https://gradikay.github.io/css-animation-/
 
-![Login to Zonimo image](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/cssanimation.JPG)
+![Css Animation](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/cssanimation.JPG)
+
+***
 
 ### Checkout my Table and Navigation designs
 
