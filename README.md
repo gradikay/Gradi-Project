@@ -48,6 +48,9 @@ I am a Front-End | Back End Web Developer
 ![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/zonimo3.PNG)
 
 ***
+`7. CSS3 Animation` - See some animation powered with css. https://gradikay.github.io/css-animation-/
+
+![Login to Zonimo image](https://github.com/gradikay/Zonimoold/blob/master/cssanimation.PNG)
 
 ### Checkout my Table and Navigation designs
 
