@@ -56,74 +56,9 @@ An application marketplace for pre-built serverless applications ready for deplo
 
 ## Other Projects 🚀🚀🚀
 
-### [My CSS Animations](https://gradikay.github.io/css-animation-/)
+- [Flexbox](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.JPG)
+- [My CSS Animations](https://gradikay.github.io/css-animation-/)
+- [First Website built with PHP](https://gradikay.github.io/css-animation-/)
 
-<a href="https://reverent-engelbart-757f30.netlify.app/">
-  <img src="https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/cssanimation.JPG" alt="Visit website" width="550" height="300">
-</a>
-
-### [First Website built with PHP](https://gradikay.github.io/css-animation-/)
-
-<a href="https://peaceful-shannon-1ef48e.netlify.app/">
-  <img src="https://github.com/gradikay/Zonimoold/blob/master/zonimo3.PNG" alt="Visit website" width="550" height="300">
-</a>
-
-https://peaceful-shannon-1ef48e.netlify.app/
 
 Thank you for visiting my portfolio! Feel free to explore my projects and get in touch if you'd like to collaborate or learn more about my work.
-
-
-![My Personal Logo](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/gradiLogoOrange.png)
-***
-# Software Developer Folio ⚡️
-
-
-
-***
-## Where to start? Here is a starting point
-`1. Gradi Kayamba Project` - Here you will know about the entire Git updates and how to navigate around! 
-
-`2. KinCentral News` - Here I have build a website with `XML, HTML5, CSS3, JAVASCRIPT`. https://gradikay.github.io/Kincentral-times/.
-
-![XML WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/Capture.JPG)
-
-`3. Zonimoold` - Here you can see my old Animal Database project [See Animal Database for Updates]
-
-`4. Animal Database` - Here you can see my 2015 project about an animal database. comming soon...
-
-
-`5. Resposive CSS3` - Here you can see a project built with `CSS3 FLEXBOX` https://gradikay.github.io/Learning-Resposive-css/
-
-![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.JPG)
-![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox3.JPG)
-![FLEXBOX WEBPAGE](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox4.JPG)
-
-```sh
-# UPDATE AS OF 11/15/2019
-ANIMAL DATABASE EXTENSIBLE (ADE)
-```
-
-`6. Learn HTML 101` - This is my cheatsheet on HTML. You can also see how I learned HTML. 
-***
-# Overview
-I am documenting my work, as I go to this journey of programming.
-To me, programming could be summerized into one simple definition `"Freedom of the mind."`
-
-```sh
-# Gradi Kayamba
-I am a Front-End | Back End Web Developer
-```
-
-***
-
-### Checkout my old project code named `Zonimo` this aims to create an animal database
-
-![Login to Zonimo image]()
-
-***
-
-### Checkout my Table and Navigation designs
-
-See table and navbars here!!! https://gradikay.github.io/kayamba-design/
-
-![Table and Nav Designs](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/table1.PNG)
