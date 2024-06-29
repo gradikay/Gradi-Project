@@ -1,13 +1,17 @@
-![My Personal Logo](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/gradiLogoOrange.png)
+<div align="center">
+  <img src="https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/gradiLogoOrange.png" alt="Watch the video" align="center">
+</div>
 
 ##
-Welcome to my portfolio! ⚡️ I'm a passionate full-stack web developer specializing in both Web 2.0 and Web 3.0 technologies. Here you will find some of my key projects, skills.
+<div align="center">
+  <h2> <b>Welcome to my portfolio! ⚡️ I'm a passionate full-stack web developer specializing in both Web 2.0 and Web 3.0 technologies. Here you will find some of my key projects, and skills. </b> </h2>
+</div>
 
-## About Me 👨‍💻
+# About Me 👨‍💻
 
 I am an experienced front-end developer with expertise in HTML, CSS, and JavaScript. I also have a strong background in Solidity, enabling me to create robust and secure applications.
 
-## Skills 🌟🌟🌟🌟🌟
+# Skills 🌟🌟🌟🌟🌟
 
 - **Languages:** JavaScript, Solidity, HTML, CSS
 - **Frameworks/Libraries:** ReactJS, Bootstrap, SASS
@@ -16,9 +20,9 @@ I am an experienced front-end developer with expertise in HTML, CSS, and JavaScr
 - **Blockchain:** AVAX Blockchain
 - **Familiar:** Java, Python, JQuery, SQL, MongoDB, PHP
 
-## Projects 🚀🚀🚀
+# Projects 🚀🚀🚀
 
-### [Project 1: Bozindo - Listing Platform](https://awesome-stonebraker-e3aee6.netlify.app/)
+## [Project 1: Bozindo - Listing Platform](https://awesome-stonebraker-e3aee6.netlify.app/)
 A platform that lets users post items for sale, with transactions occurring off-site. Built with:
 - **Frontend:** ReactJS, Bootstrap
 - **Backend:** AWS DynamoDB, Cognito, API Gateway, S3 Bucket, Serverless
@@ -29,7 +33,7 @@ A platform that lets users post items for sale, with transactions occurring off-
   <img src="https://github.com/gradikay/Gradi-Project/blob/master/bozindoimg.png" alt="Visit website" width="550" height="300">
 </a>
 
-### [Project 2: Paid Per Click - Decentralized Ads](https://epic-shannon-6ad85f.netlify.app)
+## [Project 2: Paid Per Click - Decentralized Ads](https://epic-shannon-6ad85f.netlify.app)
 A decentralized advertising platform where users can publish ads on the blockchain and get paid without a middleman. Built with:
 - **Frontend:** ReactJS
 - **Backend:** Solidity smart contracts, AWS Serverless
@@ -43,7 +47,7 @@ A decentralized advertising platform where users can publish ads on the blockcha
   <img src="https://github.com/gradikay/Gradi-Project/blob/master/image_originalm.png" alt="Watch the video" width="550" height="300">
 </a>
 
-### [Project 3: Fiberabbit - E-Commerce](https://github.com/gradikay/Gradi-Project/blob/master/image_original.png)
+## [Project 3: Fiberabbit - E-Commerce](https://github.com/gradikay/Gradi-Project/blob/master/image_original.png)
 An application marketplace for pre-built serverless applications ready for deployment. Built with:
 - **Frontend:** ReactJS, Bootstrap
 - **Backend:** AWS
@@ -54,7 +58,7 @@ An application marketplace for pre-built serverless applications ready for deplo
   <img src="https://github.com/gradikay/Gradi-Project/blob/master/image_original.png" alt="Visit website" width="550" height="300">
 </a>
 
-## Other Projects 🚀🚀🚀
+# Other Projects 🚀🚀🚀
 
 - [Flexbox](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/flexbox2.JPG)
 - [My CSS Animations](https://gradikay.github.io/css-animation-/)
