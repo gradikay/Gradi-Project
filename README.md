@@ -1,11 +1,11 @@
 ![My Personal Logo](https://github.com/gradikay/Gradi-Kayamba-Project/blob/master/gradiLogoOrange.png)
 
 ##
-Welcome to my portfolio! ⚡️ I'm a passionate full-stack web developer specializing in both Web 2.0 and Web 3.0 technologies. Here you will find some of my key projects, skills, and ways to get in touch with me.
+Welcome to my portfolio! ⚡️ I'm a passionate full-stack web developer specializing in both Web 2.0 and Web 3.0 technologies. Here you will find some of my key projects, skills.
 
 ## About Me 👨‍💻
 
-I am an experienced front-end developer with expertise in HTML, CSS, and JavaScript. I also have a strong background in Java and Solidity, enabling me to create robust and secure applications. I am particularly interested in building solutions that require minimal ongoing work and generate passive income.
+I am an experienced front-end developer with expertise in HTML, CSS, and JavaScript. I also have a strong background in Solidity, enabling me to create robust and secure applications.
 
 ## Skills 🌟🌟🌟🌟🌟
 
